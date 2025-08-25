@@ -40,7 +40,7 @@ Abaixo, um resumo das ferramentas e tecnologias que domino e com as quais tenho 
 
 Estou sempre aberto a novas conexões e oportunidades para colaborar em projetos inovadores.
 
-*   [Seu Perfil no LinkedIn](linkedin.com/in/bruno-reis-812aa716a)
-*   [Seu E-mail](mailto:brureis88@yahoo.com.br)
+*   [LinkedIn](linkedin.com/in/bruno-reis-812aa716a)
+*   [E-mail](mailto:brureis88@yahoo.com.br)
 
 ---
