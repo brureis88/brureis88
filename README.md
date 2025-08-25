@@ -6,7 +6,9 @@ Sou **Analista de Automação de Testes** com paixão por garantir a qualidade d
 
 ### 🚀 Sobre Mim
 
-Com uma sólida formação acadêmica que inclui pós-graduação em **Gestão de Produtos e Agilidade Empresarial** pela Impacta, pós-graduação em **Gestão de Recursos Humanos** e um bacharelado em **Administração de Empresas**, trago uma perspectiva abrangente para o universo da tecnologia. Atualmente, aprimoro minhas habilidades e conhecimentos em testes de software através da **mentoria 2.0 com o renomado Júlio de Lima**, uma das maiores referências da área no Brasil.
+Com formação acadêmica que inclui pós-graduação em **Gestão de Produtos e Agilidade Empresarial** pela Impacta, pós-graduação em **Gestão de Recursos Humanos** e um bacharelado em **Administração de Empresas**.
+
+Atualmente, aprimoro minhas habilidades e conhecimentos em testes de software através da **mentoria 2.0 com o renomado Júlio de Lima**, uma das maiores referências da área no Brasil.
 
 Ao longo dos últimos 4 anos, minha atuação profissional se concentrou principalmente nos setores **bancário, financeiro** e em **tecnologia focada em monitoramento e recuperação veicular**, onde pude aplicar minhas competências na construção de soluções robustas.
 
@@ -14,7 +16,7 @@ Ao longo dos últimos 4 anos, minha atuação profissional se concentrou princip
 
 ### ✨ Minhas Especialidades
 
-Minha principal especialidade reside na **automação de testes de software**. Possuo **mais de 3 anos de experiência proficiente com Cypress** para automação de testes de **API e Web**. Além disso, sou hábil na gestão de testes utilizando **Zephyr e Jira**, e já trabalhei com testes em plataformas **mobile (Android e iOS)**.
+Minha especialidade está em **automação de testes de software**. Possuo **mais de 3 anos de experiência com Cypress** para automação de testes de **API e Web**. Além disso, sou hábil na gestão de testes utilizando **Zephyr e Jira**, e já trabalhei com testes em plataformas **mobile (Android e iOS)**.
 
 ---
 
